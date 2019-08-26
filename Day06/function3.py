@@ -20,3 +20,15 @@ print(fruits[slice(1, 3)])
 fruits2 = list(filter(myfilter, fruits))
 print(fruits)
 print(fruits2)
+print(len('orange'))
+arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(arr[slice(5)])
+print([0, 1, 2, 3, 4, 5, 6, 7, 8, 9][slice(5)])
+
+arr2 = list(fruits)
+print(arr2)
+
+aTuple = (123, 'xyz', 'zara', 'abc')
+aList = list(aTuple)
+
+print("列表元素 : ", aList)
