@@ -42,7 +42,22 @@ print(str2[2])  # c
 # 字符串切片(从指定的开始索引到指定的结束索引)
 print(str2[2:5])  # c12
 print(str2[2:])  # c123456
-print(str2[2::2])  # c246
-print(str2[::2])  # ac246
+print(str2[2::2])  # c246 从第二个位置开始 隔一个数字去取数
+print(str2[::2])  # ac246 从0开始 隔一个数字去取数字
 print(str2[::-1])  # 654321cba
 print(str2[-3:-1])  # 45
+
+# 检查字符串是否由数字构成
+print(str2.isdigit())  # False
+
+# 检查字符串是否以字母构成
+print(str2.isalpha())  # False
+
+# 检查字符串是否以数字和字母构成
+print(str2.isalnum())  # True
+
+str3 = '  jackfrued@126.com '
+print(str3)
+# 获得字符串修剪左右两侧空格的拷贝 等于JavaScript trim() 方法
+print(str3.strip())
+
