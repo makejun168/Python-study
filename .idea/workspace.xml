@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day06/function3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="400">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -103,11 +103,11 @@
         <option value="$PROJECT_DIR$/Day05/fibonacci.py" />
         <option value="$PROJECT_DIR$/Day05/README.md" />
         <option value="$PROJECT_DIR$/Day06/function1.py" />
-        <option value="$PROJECT_DIR$/Day06/function3.py" />
         <option value="$PROJECT_DIR$/Day06/function5.py" />
         <option value="$PROJECT_DIR$/Day06/function4.py" />
         <option value="$PROJECT_DIR$/Day07/function1.py" />
         <option value="$PROJECT_DIR$/Day06/function2.py" />
+        <option value="$PROJECT_DIR$/Day06/function3.py" />
       </list>
     </option>
   </component>
@@ -304,15 +304,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28952992" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33187294" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33187294" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -320,7 +319,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32212582" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32201535" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -643,8 +642,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day06/function3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
