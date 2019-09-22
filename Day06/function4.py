@@ -16,22 +16,24 @@ import time
 import shutil
 import os
 
+# 时间模块
 seconds = time.time()
 print(seconds)
+# 打印出当前时间 以秒为单位
 localtime = time.localtime(seconds)
 print(localtime)
-print(localtime.tm_year)
-print(localtime.tm_mon)
-print(localtime.tm_mday)
-asctime = time.asctime(localtime)
-print(asctime)
-strtime = time.strftime('%Y-%m-%d %H:%M:%S', localtime)
-print(strtime)
-mydate = time.strptime('2018-1-1', '%Y-%m-%d')
-print(mydate)
-
-shutil.copy('/Users/Hao/hello.py', '/Users/Hao/Desktop/first.py')
-os.system('ls -l')
-os.chdir('/Users/Hao')
-os.system('ls -l')
-os.mkdir('test')
+# print(localtime.tm_year)
+# print(localtime.tm_mon)
+# print(localtime.tm_mday)
+# asctime = time.asctime(localtime)
+# print(asctime)
+# strtime = time.strftime('%Y-%m-%d %H:%M:%S', localtime)
+# print(strtime)
+# mydate = time.strptime('2018-1-1', '%Y-%m-%d')
+# print(mydate)
+#
+# # shutil.copy('/Users/Hao/hello.py', '/Users/Hao/Desktop/first.py')
+# os.system('ls -l')
+# # os.chdir('/Users/Hao')
+# os.system('ls -l')
+# os.mkdir('test')

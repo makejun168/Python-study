@@ -32,7 +32,7 @@ def f3(**kw):
         print('没找到你的个人信息!')
 
 
-param = {'name': '骆昊', 'age': 38}
+param = {'name': 'make', 'age': 26}
 f3(**param)
 f3(name='make', age=26, tel='13866778899')
 f3(user='make', age=26, tel='13866778899')
