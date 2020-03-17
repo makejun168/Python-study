@@ -2,6 +2,7 @@ import time
 import os
 
 
+# 定义 clock 类型
 class Clock(object):
 
     # Python中的函数是没有重载的概念的
